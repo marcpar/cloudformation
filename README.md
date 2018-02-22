@@ -1,6 +1,6 @@
-## CoudFormation 
+## CloudFormation 
 
-CoudFormation first time
+CloudFormation first time
 
 ## Getting Started
 
